@@ -1,0 +1,6 @@
+{
+  "name": "Smart Expense & Budget Manager",
+  "description": "A personal finance web application for tracking income, expenses, monthly category budgets, and spending analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
